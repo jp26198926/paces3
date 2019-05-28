@@ -9,7 +9,7 @@
             <div class="modal-body">
             	<div class="row">
             		<div class="col-xs-12">
-            			<p class="alert-warning">Note: Make it sure the record in your file is accurate!</p>
+            			<p class="alert-warning">Note: Make sure the record in your file is accurate!</p>
             		</div>
             	</div>
             	<div class="row">					
